@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LogInViewController.swift
 //  EmailAppProject
 //
 //  Created by Felipe Montoya on 10/7/17.
